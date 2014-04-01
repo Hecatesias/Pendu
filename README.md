@@ -1,4 +1,8 @@
 Pendu
 =====
 
-Jeu du pendu en PHP Hangman game in PHP
+#### FR
+Jeu du pendu en PHP 
+
+#### EN
+Hangman game in PHP
